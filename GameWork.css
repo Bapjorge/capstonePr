@@ -30,8 +30,9 @@
 }
 #ground{ 
     position: absolute;
-    
-    width: 98%;
+    background-image: url("http://www.freeiconspng.com/uploads/ice-png-12.png");
+    background-repeat: repeat-x;
+    width: 100%;
     height: 5%;
     top: 95%;
 }
